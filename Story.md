@@ -34,12 +34,10 @@
     "Erin?"
     "He might have written the bug. We won't know for sure until we get there," I told Braden.
     "Bullshit," Sam called, "You must know something else. Your old man taught you everything he knew, and he caused all this!"
-    "He didn't teach me everything. Just enough so I could get us this far. Dad didn't talk about work much. I really don't know what's inside that building, besides what this map can tell," I told him. That wasn't a lie. He never even took me to Nyle once. I don't think he would have even if I asked.
+    "He didn't teach me everything. Just enough so I could get us this far. Dad didn't talk about work much. I really don't know what's inside that building, besides what this map can tell," I told him. That wasn't a lie. He never took me to Nyle once. I don't think he would have even if I asked.
     "Well, what does that map tell you, hon?" Rogue asked, clearly attempting to defuse the situation, "Where are we going tomorrow?"
-    "Their campus is divided into six districts. The servers are located in the blue district. Each district had a different encryption key, which is why it took all day. I managed to crack everything but the red district, but that's okay. I think all the managers' offices were in that area. We won't be needing to go over there."
-    "Can you run the decryption over night anyway, just in case?" Sam asked.
-    "Wish I could, but my computer's on its last legs. I'd need another power cell from a droid," I told him, "And I've almost used up the one from the Courier earlier today."
-
+    "Their campus is divided into six districts. The servers are located in the blue district. Each district had a different encryption key, which is why it took all day. I managed to crack everything but the green district, but that's okay. I think all the managers' offices were in that area. We won't be needing to go over there." They all breathed out. "Here," I said, giving Rogue my computer, "These are the maps. Can you figure out a plan?"
+    "Of course," she responded. And with that I went to bed.
     We didn't reach the Nyle campus until at least noon. It was amazing. As we approached it the grass grew greener, until it reached a viridian green at the gate. The campus was painted in brilliant colors. Great white glass buildings stood before us, lined with decorations for each colored district it was a part of. Perfect grass covered the lawn, excepting the walkways and statues of prototype models of Nyle's most famous inventions.
     Of course, all our amazement at the campus was interrupted by the shiny metal frame of two Hachi's stalking the blue district, our destination. Sam was packed and armed like usual, this time reasonably so. Nyle engineered the Hachi's, so it was no surprise that we spotted a few lurking around.
     My dad told me all about the Hachi's. They were supposed to revolutionize the droid market. The first household droid ever made. The Hachi would watch over your house, alert you if anything seemed amiss while you were out, but bestk of all they were your personal companion. That's why they built them like dogs. The prototypes were far from cozy though. Much of their body frame was exposed and various lights flashed in and around their snout. Despite their incompleteness, they were the main carriers of the bug, and vicious nonetheless. If we were surprised by even one of them it could have meant an end to our journey.
@@ -51,9 +49,41 @@
     "That'll just call more over," I told him, "If one goes out, the others can sense it. If they haven't already picked up on the gunshot."
     "Great, we can just sneak past them. I'm good at that," Rogue said.
     *I should hope,* I thought, *I didn't let her join our group because she was a pickpocket.* Amazingly, she was able to develop a plan of entry in just a few minutes. She must have been studying my map all night, she had the campus memorized. We were able to get in through an entrance in the yellow district and in through an underground tunnel, presumably for custoidal staff. The connecting tunnel was narrow, damp, and barely lit. Fortunately the place had been long vacated.
-    We emerged in a great vestibule.
-
-    Sam, Rogue, and Braden lay held back to the wall. There was no way I could free them from their metal clasps. The man's Hachi circled around me with his metal teeth bared. The man made a sound that was probably a laugh, but could have been easily mistaken for a whimper. A whimpering chuckle, I suppose. He called out from his shadowy position in the servers, "Look who's here, Koh. Erin's finally made it back." The man walked toward me, unraveling the shadows around him, until finally the blue light of the room hit his face.
+    We emerged in a great vestibule. The sun shone through the glass windows. I took a seat on a couch in what looked like a waiting area. "Where are we?" Braden asked.
+    "Blue district. Lobby," Rogue responded, "Right where we need to be. The servers should be just through those doors."
+    "HACHI!" Sam yelled. My companions dove behind the front desk to stay hidden. I, however, was not nearly as close, and immediately hid under a coffee table.
+    "What are you doing?" Sam yelled, "Get over here, idiot. The Hachi'll see you." It was too late. The Hachi had already appeared on the other side of the glass window. Its head hung by cables and mechanical servos and its snout pointed downward at the ground, as if it was snifing the ground. Perhaps it was already tracking us? I had to get out of its range of sight. 
+    I crawled carefully out from under the table and made for behind the couch, carefully keeping eye contact with the Hachi. If it so much as saw any movement out of its perhipheral vision that thing would tear my head off. Slowly I ducked behind the couch. The Hachi was still walking foward, although slowly. I sat with my back to the right arm of the couch. *It can't see me,* I thought, *As long as it keeps moving it can't see me.* I glanced back toward the front desk my companions were hiding behind. They stayed hidden. It was then I saw it. Past the front desk was a second Hachi standing in the window, staring straight at me. I stared back, just waiting for the Hachi to barrel through the window and chew on my face whilst my friends overheard. All I could think was, *At least they'll make it.*
+    But the Hachi turned away.
+    Hachi's never turn away. Yet it strolled off, allowing me to live. I was motionless until it walked past the window and when I finally saw its tail disappear, my entire body relaxed.
+    "It's gone," I called out, "That Hachi saw me and walked away."
+    "What? Impossible," Sam said getting up from behind the desk, "Those things don't know mercy. You told me yourself." 
+    I did tell him so. That's why I created the detox stick. Droids can't feel, not really. You could program a companion robot to have feelings, but all it would be is a simulation of feelings. If you told it to murder everyone in sight, it would have no qualms about such an order. After all, it is your loyal companion, and your companion would never disobey you. That would imply they had freedom.
+    "It must not have seen you, then," Braden reasoned.
+    "Yeah, I guess," I mumbled looking at the window, "Rogue, where did you say the room was?" She looked frizzled. "Rogue?"
+    Braden jumped, "Rogue, sit down, behind the desk. You two, back off. Somebody get water."
+    *Crap,* I thought. I looked at Sam. He had the water, yet he wasn't moving to get it. "Sam!" I yelled at him. He turned at me, confused. Something clicked in his head, though, and he passed Braden the water.
+    "Here," Sam said.
+    "Look at me Rogue. Look here," Braden said sternly, yet subdued, "Everything's okay. The Hachi's are gone. Drink some. You're fine, you're fine..."
+    I pulled Sam away from the desk. He seemed unsure how to react. I sat him down on the couch I was on earlier, though out of paranoia I turned the couch away from the window.
+    He turned to me, "Did I cause that?"
+    "The Hachi's caused that," I told him.
+    "But she never saw the Hachi's," Sam said, "She only knew there were Hachi's because I called out."
+    "Hey, stop thinking like that and start helping me get into the server room. We need to get out of here before they show up again."
+    "Right."
+    Surprisingly the door was perfectly unlocked. I ran over to the desk and knocked on its surface. "Hey, can she move to the next room?"
+    "I'm fine, I'm fine," Rogue said. "Just fine. I can walk." And she did, though Braden stood by her the whole while.
+    When we entered the server room, we were greeted by a wave of cool air and a relay of computers stacked in rows all down the length of the room. The door closed and everything became dark, excepting the blueish glow of the whirring computers and some floating lights.
+    "A bit chilly, eh?" Braden said.
+    "Servers need to be kept cool, else the heat they generate will melt their CPUs," I told him.
+    "So we just need to trash this place? Hey what are these floating things?" Braden asked again.
+    "I don't know. I've never seen these before," I told him. They were curious things. They almost looked like fireflies, scattered all across the server room. Just floating.
+    "Probably dangerous," Sam said.
+    "Dangerous? Ho ho, sir, you have no idea," a deep voice responded. We all looked down the center aisle of servers. A shadow lurked nearby. Suddenly, the lights began to move towards my companions, gathering in globs and pushing them back towards the entrance wall. They were splayed across the wall, and the globs moved up their arms and wrested on their wrists. When they flew away, a metal clasp had formed around their wrists, pinning them there. I stood untouched.
+    "So you're running these servers?" I asked him.
+    "Did he make the bug?" Braden yelled.
+    "Bug?" he responded, "Oh, you mean the mass murdering? I like to think of that as a feature. Sadly, I'm afraid that bug wasn't made by anyone. Certainly not by me. Although, I should correct myself. I probably contributed to its creation, but so did everyone else who worked here. I just so happened to discover its usefulness before anyone else did." A Hachi emerged from the aisles and began circling me with metal teeth bared.
+    Sam, Rogue, and Braden lay held back to the wall. There was no way I could free them from their metal clasps. The man made a sound that was probably a laugh, but could have been easily mistaken for a whimper. A whimpering chuckle, I suppose. He called out from his shadowy position in the servers, "Look who's here, Koh. Erin's finally made it back." The man walked toward me, unraveling the shadows around him, until finally the blue light of the room hit his face.
     The cool air suddenly turned icy, at least for me. I felt a wave of chills over my skin, but my heart sank even lower than the temperature. The decrepit face of my dead father stared me down, and I could hardly look back. "Come back home, dearest daughter?" he calmly spoke.
     "Daughter?!" Braden yelled. Sam was struggling to break free of his bonds. Rogue was still.
     "I see you've brought some friends. Care to introduce them?" my father asked, but I could not respond. He walked toward them, his hand held behind his back and his figure draped in a long black coat. He leaned over and leered and them. I couldn't move. Even if I wanted too, my father's Hachi, Koh, would've had an opinion about that. He turned to Sam, "What's your name, sonny?" He pointed at Sam's rifle and said, "Been keeping my daughter safe, have you? I'm obliged, but I must say she really doesn't need your protection. Erin is well equipped to protect herself. I made sure." The fireflies swarmed the rifle, bending and twisting the barrel, and eventually dissolving it into nothing. It was hard to tell with the lighting of the server room and Sam's complexion, but at this point I was sure Sam's face was seething with rage. 
@@ -64,6 +94,13 @@
     "Power?" I asked back.
     "Running after Koh like that. Tackling him to the ground so easily while Samuel the Strong can just barely find the strength to do the same," he said. I looked at Sam. He was exerting so much strength just trying keep its legs back. I took Koh down using much less effort.
     "Ever hear of adrenaline?" I told him. He chuckled.
-    "Doesn't appear adrenaline is doing much good for him," he said. Sam was really struggling. I needed to help him, but my father was blocking me. His fireflies formed a wall between me and Sam. "You, on the other hand," my father put his arm on my shoulder, "Can obliterate him." He put his hand in front of me. More fireflies gathered on his palm, shinining like little lanterns. "Do you remember, Erin? These nanodroids, they're the real genius of this company," his voice raised, "Hachis are simple machines. These swarmers gift to me the power of creation and destruction. Their engineering was my masterpiece. And with them I weaved you."
-    *Me?* I thought, *Weaved? From droids?* My father walked around me.
-    "Just look at this place!" he yelled, raising his hands, "The air is alive!" And he was right. The air was ablaze with fireflies. "You were grown from these nanodroids. You are the first man-made human in existence! And just as were born from them, so may you control them.
+    "Doesn't appear adrenaline is doing much good for him," he said. Sam was really struggling. I needed to help him, but my father was blocking me. His fireflies formed a glass wall between Sam and I. I could only watch.
+    "You, on the other hand," my father put his arm on my shoulder, "Can obliterate him." He put his hand in front of me. More fireflies gathered on his palm, shinining like little lanterns. "Do you remember, Erin? These nanodroids, they're the real genius of this company," his voice raised, "Hachis are simple machines. These swarmers gift to me the power of creation and destruction. Their engineering was my masterpiece. And with them you were birthed."
+    "Birthed?" I asked him. I didn't know what he was talking about. I was born before he worked at Nyle.
+    "Just look at this place!" he yelled, raising his hands, "The air is alive!" And he was right. The air was ablaze with fireflies. "You were grown from these nanodroids. You are the first man-made human in existence!"
+    "You're lying," I accused.
+    "Denial?"
+    "You're dead. I saw you die. My dad hasn't worked for Nyle as long as I've been alive."
+    "Yes, that is true. But it is also false," he qualified, "At exactly 1763053200 epoch time I died in my home, survived only by you. However, before this event I had benn developing a program for several years that would unite these nanodroids into a single network. I called it: ZenOS. With ZenOS the nanodroids could be coordinated and utilized by humans.
+    Sam was overpowered by the Hachi. The robotic beast had him pinned. Sam's hands, wrapped around the Hachi's jaws, was the only thing keeping him alive. Koh pushed down. Sam could only redirect the jaw from his face to his shoulder. The teeth sunk in, and a crunch echoed through the vesibule. Sam was screaming. 
+    "You can stop this," my father whispered to me, "BAnd from them you were birthed."
