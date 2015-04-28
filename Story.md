@@ -101,6 +101,19 @@
     "You're lying," I accused.
     "Denial?"
     "You're dead. I saw you die. My dad hasn't worked for Nyle as long as I've been alive."
-    "Yes, that is true. But it is also false," he qualified, "At exactly 1763053200 epoch time I died in my home, survived only by you. However, before this event I had benn developing a program for several years that would unite these nanodroids into a single network. I called it: ZenOS. With ZenOS the nanodroids could be coordinated and utilized by humans.
-    Sam was overpowered by the Hachi. The robotic beast had him pinned. Sam's hands, wrapped around the Hachi's jaws, was the only thing keeping him alive. Koh pushed down. Sam could only redirect the jaw from his face to his shoulder. The teeth sunk in, and a crunch echoed through the vesibule. Sam was screaming. 
-    "You can stop this," my father whispered to me, "BAnd from them you were birthed."
+    "Yes, that is true. But it is also false," he qualified, "At exactly 1763053200 epoch time I died in my home, survived only by you. Long before this, however, I had been developing a program that would unite these nanodroids into a single network called ZenOS. With ZenOS the nanodroids could be controlled like a hive mind, with me as their master. So when I was killed, the nanodroids tried to rebuild me. But something was lost along the way, and what they got was a man who was not dead, but not exactly reborn. I became Nil. It was I who leveraged the bug to change this world. And it is I who can lead you to Zen, to your destiny!" 
+    Sam was overpowered by the Hachi. The robotic beast had him pinned. Sam's hands, wrapped around the Hachi's jaws, was the only thing keeping him alive. Koh pushed down. Sam could only redirect the jaw from his face to his shoulder. The teeth sunk in, and a crunch echoed through the vesibule. Sam was screaming. I looked in horror. Blood was gushing out on the floor. 
+    "You can stop this," said Nil, "Become one with Zen."
+    "Sam!" Rogue yelled, bursting through the hole in the wall. *Did they escape from their bonds?* She dashed across the floor, leaping on Koh and jabbing something into its neck. Her stun baton. She was yelling, almost like a chant, "I am Rogue! You couldn't kill me then! You can't kill me now!" She ruthlessly jabbed, mostly for catharsis now. Koh lay on the ground, motionless and definitely shorted. Braden had ran up to Sam and started attending his wound.
+    I felt for the detox stick in my pocket.
+    "Zen, huh?" I asked, "Well, what am I waiting for?" I pulled out the detox stick and unsheathed it, pointing it at Nil.
+    "A flash drive? What do you think that's going to do to me? I don't take those. Didn't I teach you better?" said Nil.
+    "I can make anything I want, right? And all you have to do is let me into Zen?"
+    "All you have to do is join me."
+    "That's a laugh. You want to know what I think? I don't exercise much. Or eat. So tell me, Nil. How was I able to run faster than your Hachi? Or tackle him off of Sam? I think Dad already let me into Zen. I've been in Zen this whole time, just unaware of it."
+    "How dare you talk to me like that! You are my daughter!"
+    "My father is dead. I spent a whole year coming to terms with that. During that year I only met dead people. People who lost all purpose. Maybe the bug took their purpose, maybe they lost it all before the bug. But these people behind me, they're the first real live people I've met in a long time." 
+    The air began to warm. The fireflies began retreating from their positions on the glass wall. It began to crumble, turning to sand. My friends turned and looked at me. They saw a girl covered in fireflies. They flew down to my hand, gathering at the detox stick. I felt the fireflies as they read the detox program. So warm. They built on top of the stick, shining all the while. The light extended forward and converged to a point about an arm's length away, and the stick grew weightier in my hand. They turned it into a sword of light. I looked at Nil.
+    "I won't let you kill them too!" I yelled, charging at the ghost of my father. I swung the blade of light right through him. Nil fell to the floor.
+    "I named you after an angel, Erin," he spoke, gasping. He collapsed, his body shriveled and decomposing. Nil had been patched, and I saw my father vanish into the light. The fireflies dissapated around me, taking the sword of light with them. I looked at my friends. They were gazing at me.
+    "Erin," they said, "you're glowing!"
